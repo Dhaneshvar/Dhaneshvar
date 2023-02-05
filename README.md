@@ -45,8 +45,6 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTic6eYDInlLJ3lZ_UgufymUEV
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="lazy programmer" align="right" 
 width="350" height="200">
 
-<br>
-<br>
 
 - 🔭 I’m currently working on [Flutter App, AI Sentiment Analysis](https://github.com/Dhaneshvar/Complete-Citizen-Flutter)
 
