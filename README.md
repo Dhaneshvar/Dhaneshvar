@@ -10,7 +10,10 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTic6eYDInlLJ3lZ_UgufymUEV
 
 <br>
 
-<h1 align="center">Hi 👋, I'm DHANESHVAR</h1>
+<!-- <h1 align="center">Hi 👋, I'm DHANESHVAR</h1> -->
+<h1 align="center">
+  <a href="https://github.com/Dhaneshvar"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi 👋, I'm DHANESHVAR;&center=true&width=500&height=50"></a>
+</h1>
 <h2 align="center">A passionate AI Enthusiasts, UI Designer using Figma, from Puducherry,India.</h2>
 
 <!-- <iframe src="https://embed.lottiefiles.com/animation/71619"></iframe> -->
@@ -40,8 +43,8 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTic6eYDInlLJ3lZ_UgufymUEV
 <!-- Profile View Section -->
 [![](https://visitcount.itsvg.in/api?id=dhaneshvar&icon=5&color=0)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
-
+<!-- # 💫 About Me: -->
+## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="lazy programmer" align="right" 
 width="350" height="200">
 
@@ -106,14 +109,14 @@ width="350" height="200">
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 <br>
 
-# 📊 GitHub Stats:
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=dhaneshvar&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dhaneshvar&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaneshvar&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/{dhaneshvar}/count.svg"></p> -->
 
 <!-- # 📊 GitHub Stats: -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaneshvar&show_icons=true&locale=en&layout=compact" alt="dhaneshvar" /></p>
@@ -123,3 +126,5 @@ width="350" height="200">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhaneshvar&" alt="dhaneshvar" /></p> -->
 
 
+
+<!-- [![Dhaneshvars's Activity Graph](https://activity-graph.herokuapp.com/graph?username=dhaneshvar&custom_title=Dhaneshvar's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/Dhaneshvar) -->
