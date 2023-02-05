@@ -20,10 +20,10 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTic6eYDInlLJ3lZ_UgufymUEV
 
 <br>
 <br>
-
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="lazy programmer" width="350" height="350" align="left">
-
-
+<center>
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="lazy programmer" width="350" height="350">
+</center>
+<!-- 
 <center>
 <svg class="animated" width="350" height="350" preserveAspectRatio="xMidYMid meet" id="freepik_stories-code-typing" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs">
 <style>svg#freepik_stories-code-typing:not(.animated) .animable {opacity: 0;}svg#freepik_stories-code-typing.animated #freepik--Floor--inject-2 {animation: 1.5s Infinite  linear floating;animation-delay: 0s;}svg#freepik_stories-code-typing.animated #freepik--Shadows--inject-2 {animation: 1.5s Infinite  linear heartbeat;animation-delay: 0s;}svg#freepik_stories-code-typing.animated #freepik--Plant--inject-2 {animation: 1.5s Infinite  linear floating;animation-delay: 0s;}svg#freepik_stories-code-typing.animated #freepik--Pictures--inject-2 {animation: 1.5s Infinite  linear floating;animation-delay: 0s;}svg#freepik_stories-code-typing.animated #freepik--Character--inject-2 {animation: 3.2s 1 forwards ease-in slideDown,1.5s Infinite  linear floating;animation-delay: 0s,3.2s;}svg#freepik_stories-code-typing.animated #freepik--Screen--inject-2 {animation: 1.5s Infinite  linear floating;animation-delay: 0s;}            @keyframes floating {                0% {                    opacity: 1;                    transform: translateY(0px);                }                50% {                    transform: translateY(-10px);                }                100% {                    opacity: 1;                    transform: translateY(0px);                }            }                    @keyframes heartbeat {                0% {                    transform: scale(1);                }                10% {                    transform: scale(1.1);                }                30% {                    transform: scale(1);                }                40% {                    transform: scale(1);                }                50% {                    transform: scale(1.1);                }                60% {                    transform: scale(1);                }                100% {                    transform: scale(1);                }            }                    @keyframes slideDown {                0% {                    opacity: 0;                    transform: translateY(-30px);                }                100% {                    opacity: 1;                    transform: translateY(0);                }            }        
@@ -33,7 +33,7 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTic6eYDInlLJ3lZ_UgufymUEV
 </filter>
 </defs>
 </svg>
-</center>
+</center> -->
 
 <!-- Profile View Section -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaneshvar&label=Profile%20views&color=0e75b6&style=flat" alt="dhaneshvar" /> </p> -->
