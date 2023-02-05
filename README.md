@@ -10,10 +10,10 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTic6eYDInlLJ3lZ_UgufymUEV
 
 <br>
 
-<!-- <h1 align="center">Hi 👋, I'm DHANESHVAR</h1> -->
-<h1 align="center">
+<h1 align="center">Hi 👋, I'm DHANESHVAR</h1>
+<!-- <h1 align="center">
   <a href="https://github.com/Dhaneshvar"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi 👋, I'm DHANESHVAR;&center=true&width=500&height=50"></a>
-</h1>
+</h1> -->
 <h2 align="center">A passionate AI Enthusiasts, UI Designer using Figma, from Puducherry,India.</h2>
 
 <!-- <iframe src="https://embed.lottiefiles.com/animation/71619"></iframe> -->
