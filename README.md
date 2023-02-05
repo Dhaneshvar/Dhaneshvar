@@ -20,9 +20,7 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTic6eYDInlLJ3lZ_UgufymUEV
 
 <br>
 <br>
-<center>
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="lazy programmer" width="350" height="350">
-</center>
+<!-- <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="lazy programmer" align="right" width="350" height="350"> -->
 <!-- 
 <center>
 <svg class="animated" width="350" height="350" preserveAspectRatio="xMidYMid meet" id="freepik_stories-code-typing" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs">
@@ -38,12 +36,18 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTic6eYDInlLJ3lZ_UgufymUEV
 <!-- Profile View Section -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaneshvar&label=Profile%20views&color=0e75b6&style=flat" alt="dhaneshvar" /> </p> -->
 
-<br>
 
 <!-- Profile View Section -->
 [![](https://visitcount.itsvg.in/api?id=dhaneshvar&icon=5&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
+
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="lazy programmer" align="right" 
+width="350" height="200">
+
+<br>
+<br>
+
 - 🔭 I’m currently working on [Flutter App, AI Sentiment Analysis](https://github.com/Dhaneshvar/Complete-Citizen-Flutter)
 
 - 🌱 I’m currently learning **Streamlit, Blockchain, Flutter.**
