@@ -55,13 +55,13 @@ width="350" height="200">
 
 - 👯 I’m looking to collaborate on **Sentiment Analysis**
 
-- 👨‍💻 All of my projects are available at [http://dhaneshresume.onrender.com/](http://dhaneshresume.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://dhaneshresume.onrender.com/](https://dhaneshresume.onrender.com/)
 
-- 💬 Ask me about **Flutter, AI,**
+- 💬 Ask me about **Flutter, AI.**
 
 - 📫 How to reach me **dhaneshvar2912@gmail.com**
 
-- 📄 Know about my experiences [http://dhaneshresume.onrender.com/](http://dhaneshresume.onrender.com/)
+- 📄 Know about my experiences [https://dhaneshresume.onrender.com/](https://dhaneshresume.onrender.com/)
 
 - ⚡ Fun fact **I complete things Neatly and Perfectly. I Like Challenges win Challenges.**
 <br>
@@ -72,11 +72,18 @@ width="350" height="200">
 <a href="https://linkedin.com/in/www.linkedin.com/in/dhaneshvar-m-69a619208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dhaneshvar-m-69a619208" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/dhaneshvar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dhaneshvar" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/dhaneshvar_2912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/dhaneshvar_2912" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@dhaneshvarm951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dhaneshvarm951" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/dhan_2912" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/dhan_2912" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/dhaneshvar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dhaneshvar" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@dhaneshvar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@dhaneshvar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/dhaneshvar2912/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/dhaneshvar2912/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@dhaneshvarm951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dhaneshvarm951" height="35" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/dhan_2912" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/dhan_2912" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/dhaneshvar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dhaneshvar" height="35" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@dhaneshvar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@dhaneshvar" height="35" width="40" /></a>
+<a href="http://www.skillrack.com/profile/324815/7cc529599cc3ab76f7b4d4ddbe073d7544832ed3" target="blank">
+<img align="center" src="https://media.licdn.com/dms/image/C4D0BAQEq2uAbuhweNw/company-logo_100_100/0/1519918718471?e=1683763200&v=beta&t=J2vbEMpPCgt5uTUHrB1iu-enS5pn8XB05VpfKFkMeoM" alt="http://www.skillrack.com/profile/324815/7cc529599cc3ab76f7b4d4ddbe073d7544832ed3" height="35" width="40"/></a>&nbsp;&nbsp;
+<a href="https://my.newtonschool.co/user/dhaneshvar2912/" target="blank">
+<img align="center" src="https://media.licdn.com/dms/image/C560BAQFCCvsbRcIZPw/company-logo_100_100/0/1650263825934?e=1683763200&v=beta&t=IyMKycErte07AG19iG875gTHhUJWXN0JSl_n3sBph5M" alt="https://my.newtonschool.co/user/dhaneshvar2912/" height="35" width="40"/></a>&nbsp;&nbsp;
+<a href="https://www.codingninjas.com/codestudio/profile/DHANESHVAR" target="blank">
+<img align="center" src="https://brandfetch.com/_next/image?url=https%3A%2F%2Fasset.brandfetch.io%2FidQVGbrvGL%2FidfEcNZa-k.jpeg&w=1920&q=75" alt="https://www.codingninjas.com/codestudio/profile/DHANESHVAR" height="35" width="40"/></a>&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/dhaneshvar2912/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/dhaneshvar2912/" height="30" width="40"/></a>
+
 </p>
 <br>
 
