@@ -43,7 +43,7 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTic6eYDInlLJ3lZ_UgufymUEV
 
 
 <!-- Profile View Section -->
-[![](https://visitcount.itsvg.in/api?id=dhaneshvar&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dhaneshvar&icon=5&color=0)](https://github.com/Dhaneshvar/)
 
 <!-- # 💫 About Me: -->
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
