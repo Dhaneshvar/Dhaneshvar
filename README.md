@@ -1,4 +1,6 @@
+<a href="https://github.com/Dhaneshvar/">
 <img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDd8fGNvZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" alt="lazy programmer" width="1000" height="200">
+</a>
 
 
 <!-- https://pbs.twimg.com/media/FLVm9YlWQAgQ5ZS.jpg 
@@ -45,8 +47,10 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTic6eYDInlLJ3lZ_UgufymUEV
 
 <!-- # 💫 About Me: -->
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
+<a href="https://github.com/Dhaneshvar/">
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="lazy programmer" align="right" 
 width="350" height="200">
+</a>
 
 
 - 🔭 I’m currently working on [Flutter App, AI Sentiment Analysis](https://github.com/Dhaneshvar/Complete-Citizen-Flutter)
@@ -118,9 +122,12 @@ width="350" height="200">
 
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=dhaneshvar&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhaneshvar&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaneshvar&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![](https://github-readme-stats.vercel.app/api?username=dhaneshvar&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/Dhaneshvar/)<br/>
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Dhaneshvar&theme=blue-green&hide_border=false)](https://github.com/Dhaneshvar/)
+<br/>
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaneshvar&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/Dhaneshvar/)
 
 ---
 <!-- <p align="center"><img src="https://profile-counter.glitch.me/{dhaneshvar}/count.svg"></p> -->
