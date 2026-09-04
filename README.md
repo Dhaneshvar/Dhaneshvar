@@ -7,9 +7,9 @@
 <p>
   <a href="https://www.linkedin.com/in/dhaneshvar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://dhaneshvarmaha.me/"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.youtube.com/@dhaneshvarm951"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://instagram.com/dhaneshvar_2912"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:dhaneshvar2912@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.youtube.com/@dhaneshTechMinutes"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://instagram.com/dhaneshtechminutes"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:dhaneshvartechminutes"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
